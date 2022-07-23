@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @somethings-fishy - Rudrakshi Gupta..
 - 👀 I’m interested in Programming and learing new languages.
-- 🌱 I’m currently learning myself.
+- 🌱 I’m currently learning Node.js.
 - 💞️ I’m looking to collaborate on python projects and web development.
 - 📫 Reach me on @rudrakshigupta305@gmail.com
 
